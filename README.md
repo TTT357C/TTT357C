@@ -28,13 +28,14 @@ I'm part of the IEEE Student Branch of the University of Brescia
 ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
+![Blender](https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Affinity Photo](https://img.shields.io/badge/-AFFINITYPHOTO-7E4DD2?style=for-the-badge)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Office](https://img.shields.io/badge/-OFFICE-orange?style=for-the-badge&logo=microsoftoffice)
-![Blender](https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge)
+
 
 
 
