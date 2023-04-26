@@ -7,7 +7,9 @@
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
+![Pypi](https://img.shields.io/badge/-pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![lua](https://img.shields.io/badge/-LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -17,7 +19,8 @@
 ![GCODE](https://img.shields.io/badge/-GCODE-red?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![BATCH](https://img.shields.io/badge/-BATCH-lightgrey?style=for-the-badge&logo=windows11)
 ![ASSEMBLY](https://img.shields.io/badge/-ASSEMBLY-yellow?style=for-the-badge)
-![Ladder](https://img.shields.io/badge/-ladder-009999?style=for-the-badge&logo=siemens)
+![Ladder](https://img.shields.io/badge/-ladder-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![minizinc](https://img.shields.io/badge/-minizinc-138adf?style=for-the-badge)
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -28,6 +31,7 @@
 ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![LABVIEW](https://img.shields.io/badge/-LABVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
+![NODERED](https://img.shields.io/badge/-NODE_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=black)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
