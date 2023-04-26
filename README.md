@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm part of the IEEE Student Branch of the University of Brescia
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -36,9 +32,8 @@ I'm part of the IEEE Student Branch of the University of Brescia
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Office](https://img.shields.io/badge/-OFFICE-orange?style=for-the-badge&logo=microsoftoffice)
 
-
-
-
+# 💫 About Me:
+I'm part of the IEEE Student Branch of the University of Brescia
 
 
 ## 🌐 Socials:
