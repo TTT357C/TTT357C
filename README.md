@@ -16,7 +16,7 @@
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GCODE](https://img.shields.io/badge/-GCODE-red?style=for-the-badge&logo=notepadplusplus&logoColor=white)
+![GCODE](https://img.shields.io/badge/-GCODE-ED1C24?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![BATCH](https://img.shields.io/badge/-BATCH-lightgrey?style=for-the-badge&logo=windows11)
 ![ASSEMBLY](https://img.shields.io/badge/-ASSEMBLY-yellow?style=for-the-badge)
 ![Ladder](https://img.shields.io/badge/-ladder-009999?style=for-the-badge&logo=siemens&logoColor=white)
@@ -47,3 +47,4 @@ I'm part of the IEEE Student Branch of the University of Brescia<br><br>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIpZnIGoAk-EYV0gijTqakA)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tom357c) 
