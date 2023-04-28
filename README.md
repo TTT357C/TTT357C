@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
-![Pypi](https://img.shields.io/badge/-pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Pypy](https://img.shields.io/badge/-pypy-3775A9?style=for-the-badge&logo=pypy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![lua](https://img.shields.io/badge/-LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
