@@ -49,5 +49,3 @@ I'm part of the IEEE Student Branch of the University of Brescia<br><br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIpZnIGoAk-EYV0gijTqakA)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tom357c) 
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTT357C)](https://github.com/anuraghazra/github-readme-stats)
