@@ -23,14 +23,20 @@
 
 ### Other:
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CYTHON](https://img.shields.io/badge/-cython-5d5e60?style=for-the-badge&logo=cython)
 ![BATCH](https://img.shields.io/badge/-BATCH-lightgrey?style=for-the-badge&logo=windows11)
 ![minizinc](https://img.shields.io/badge/-minizinc-138adf?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-ed7500?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-afafaf?style=for-the-badge&logo=json&logoColor=white)
+
+
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![CYTHON](https://img.shields.io/badge/-cython-5d5e60?style=for-the-badge&logo=cython)
+
 
 
 ### IDE:
@@ -45,9 +51,11 @@
 ![NODERED](https://img.shields.io/badge/-NODE_RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Blender](https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=black)
 ![Inventor](https://img.shields.io/badge/-INVENTOR-dcb20e?style=for-the-badge&logo=autodesk)
 ![Autocad](https://img.shields.io/badge/-AUTOCAD-d64233?style=for-the-badge&logo=autodesk)
+![Unity](https://img.shields.io/badge/-UNITY-111111?style=for-the-badge&logo=unity)
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Affinity Photo](https://img.shields.io/badge/-AFFINITYPHOTO-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white)
