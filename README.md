@@ -46,6 +46,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/-BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=black)
+![Inventor](https://img.shields.io/badge/-INVENTOR-dcb20e?style=for-the-badge&logo=autodesk)
+![Autocad](https://img.shields.io/badge/-AUTOCAD-d64233?style=for-the-badge&logo=autodesk)
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Affinity Photo](https://img.shields.io/badge/-AFFINITYPHOTO-7E4DD2?style=for-the-badge&logo=affinityphoto&logoColor=white)
