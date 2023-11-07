@@ -57,7 +57,7 @@
 I'm part of the IEEE Student Branch of the University of Brescia<br><br>
 ![IEEE](https://img.shields.io/badge/-IEEE_Student_Branch-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 
-### Competitions
+## 🏆 Competitions
 
 [![LUDUM_DARE](https://img.shields.io/badge/LUDUM_DARE_49-fd4a1d?style=for-the-badge&logo=LUDUM_DARE)](https://thevinter.itch.io/exit)
 [![IEEEXTREME_15](https://img.shields.io/badge/IEEEXTREME_15-0850a2?style=for-the-badge&logo=IEEEXTREME)](https://ieeextreme.org/ieeextreme-15-0-ranking/)
