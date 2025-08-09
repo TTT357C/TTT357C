@@ -73,6 +73,7 @@ I'm part of the IEEE Student Branch of the University of Brescia<br><br>
 [![IEEEXTREME_15](https://img.shields.io/badge/IEEEXTREME_15-0850a2?style=for-the-badge&logo=IEEEXTREME)](https://ieeextreme.org/ieeextreme-15-0-ranking/)
 [![IEEEXTREME_16](https://img.shields.io/badge/IEEEXTREME_16-0850a2?style=for-the-badge&logo=IEEEXTREME)](https://ieeextreme.org/ieeextreme-16-0-ranking/)
 [![IEEEXTREME_17](https://img.shields.io/badge/IEEEXTREME_17-0850a2?style=for-the-badge&logo=IEEEXTREME)](https://ieeextreme.org/ieeextreme-17-0-ranking/)
+[![IEEEXTREME_18](https://img.shields.io/badge/IEEEXTREME_18-0850a2?style=for-the-badge&logo=IEEEXTREME)](https://ieeextreme.org/ieeextreme-18-0-ranking/)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIpZnIGoAk-EYV0gijTqakA)
